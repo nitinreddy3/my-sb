@@ -57,7 +57,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "css-box-model": "^1.2.0",
+    "lodash": "^4.17.20",
     "memoize-one": "^5.1.1",
     "raf-schd": "^4.0.2",
     "react-redux": "^7.2.0",
