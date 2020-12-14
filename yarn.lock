@@ -10,7 +10,7 @@
     "@atlaskit/theme" "^11.0.0"
     fbjs "^3.0.0"
 
-"@atlaskit/theme@^11.0.0":
+"@atlaskit/theme@^11.0.0", "@atlaskit/theme@^11.0.1":
   version "11.0.1"
   resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-11.0.1.tgz#6d3242381b2f5cb08e8dc724caeffcbbe63b54d7"
   integrity sha512-DIrQwqXbgPLtu9R/eIgvnPCxxNomkyzwIYu7UEFyZI2KQynl62KHZRX9KLox07MjrhN0xB9SoMSFMwPWWayhNg==
@@ -18,15 +18,6 @@
     exenv "^1.2.2"
     prop-types "^15.5.10"
     tslib "^2.0.0"
-
-"@atlaskit/theme@^9.5.2":
-  version "9.5.2"
-  resolved "https://registry.yarnpkg.com/@atlaskit/theme/-/theme-9.5.2.tgz#a6ede937f5a6870c4acf6a6cbf094b429e0e759d"
-  integrity sha512-I5pUi6Ie0eOAwnuFtgoXsB3NoRoCl5itQtiIaZ106eLB+eYd22H9Qr0KXWvl4RY2Dn82MO3KbnVGMTX7DUSGeg==
-  dependencies:
-    exenv "^1.2.2"
-    prop-types "^15.5.10"
-    tslib "^1.9.3"
 
 "@babel/code-frame@7.5.5":
   version "7.5.5"
